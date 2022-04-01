@@ -1,0 +1,353 @@
+COMMENTS:
+
+<!--====== ======-->
+
+Animation:
+    [articale] https://github.com/michalsnik/aos
+    [video] https://www.youtube.com/watch?v=0kmFlBJIUkQ
+
+Google fonts:
+    Body Font    -> Roboto
+    Heading Main -> Architects Daughter
+    Headings     -> Raleway
+
+Colors:
+    buttons -> #ff1f75
+    littledarkpink -> #ff5d8f
+    slider-color -> #810848 OR #b40856
+    pink -> #fd269d
+
+
+GitHub: https://github.com/WajdWael
+<i class="fa-brands fa-github"></i>
+LinkedIn: https://www.linkedin.com/in/wajd-wael-345465230/
+<i class="fa-brands fa-linkedin"></i>
+Facebook: https://www.facebook.com/profile.php?id=100062583282041
+<i class="fa-brands fa-facebook"></i>
+
+
+// 
+-- THIS IS THE COLOR STYLE FOR HEADING --
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-size: 100%; 
+//
+
+
+Slider nav lis
+'
+    Home
+    About
+    Certificates
+    Portfolio
+    Services
+    Skills
+    Resume
+    Contact
+
+
+Hello everyone. 
+I am Wajd, a programmer who makes web pages to fit all your majors and intents. My first teacher is Youtube, and it will still be my teacher because -in my opinion- the learning process will never end. 
+
+Through my learning process, after learning the basics about programming I majored in Web Development specifically. Actually, I found myself in the web development field and I am passionate about it, my love is increasing in this field day after day.
+
+As a front-end developer, all I do is relive the static designs that were designed by someone who is called (UI/UX) designer to build the front-end portion of websites and web applications—that is the part that users actually see and interact with.
+
+'
+
+
+// Important links
+
+
+- Contact:
+-> https://www.youtube.com/watch?v=sGQSz22U8VM
+
+
+
+- Skills:
+-> https://www.youtube.com/watch?v=nyuht1Mmyss
+
+
+
+- Header: Text Typing Effects By Using JavaScript
+-> https://www.youtube.com/watch?v=5lo_QdeWm_g
+
+- Customizable typewriter animation with CSS (kevin bowel)
+-> https://www.youtube.com/watch?v=w1nhwUGsG6M 
+
+
+
+
+
+/* For small devices */
+
+
+
+
+@media screen and (max-width: 1200px) {
+}
+@media screen and (max-width: 992px) {
+}
+@media screen and (max-width: 767px) {
+}
+@media screen and (max-width: 576px) {
+}
+@media screen and (max-width: 320px) {
+}
+
+
+About content:
+
+-  
+- : 
+-  To give the ability to the user interacts with them your webpage.
+- And of course, there are other frameworks to be used.
+
+
+
+
+
+
+JavaScript:
+(
+
+1 (E-commerce JS Full in The buy information
+- Demo: https://wajdwael.github.io/E-commerce_withJsCode/
+- Code: https://github.com/WajdWael/E-commerce_withJsCode
+)
+
+2 (Hang Man Game:
+-Dome: https://wajdwael.github.io/Hang-manGame-JS/
+-Code: https://github.com/WajdWael/Hang-manGame-JS
+)
+
+)
+
+_________________________________________________________________
+
+ JavaScript - CSS Projects:
+1 (Change Backgournd-Color:
+- Demo: https://wajdwael.github.io/changeBackgroundColor/
+- Code: https://github.com/WajdWael/changeBackgroundColor 
+
+2 (Drag And Drop Cards:
+-Demo: https://wajdwael.github.io/Drag-DropCards/
+-Code: https://github.com/WajdWael/Drag-DropCards
+)
+
+3(Count Down Date:
+-Demo: https://wajdwael.github.io/CountDownDate/
+-Code: https://github.com/WajdWael/CountDownDate
+)
+
+4(Blur Animation Project:
+- Demo: https://wajdwael.github.io/Blur-animationCSS/
+- Code: https://github.com/WajdWael/Blur-animationCSS
+)
+
+5(Double Vertical Slider
+-Demo: https://wajdwael.github.io/Double-Vertical-Slider/ 
+-Code: https://github.com/WajdWael/Double-Vertical-Slider
+)
+
+6(FAQ Project:
+-Demo: https://wajdwael.github.io/QandA/
+-Code: https://github.com/WajdWael/QandA
+)
+
+7( Responsive Navbar:
+- Demo: https://wajdwael.github.io/responsive-nav/
+- Code: https://github.com/WajdWael/responsive-nav
+)
+
+________________________________________________________________
+CSS:
+
+1 (Nice Registration Animation with CSS:
+- Demo: https://wajdwael.github.io/registerForm_CSSeffect/
+- Code: https://github.com/WajdWael/registerForm_CSSeffect
+)
+
+2 (Expanding Cards
+-Demo: https://wajdwael.github.io/ExpandingCards/
+-Code:  https://github.com/WajdWael/ExpandingCards
+)
+
+
+8(Highlight Searched Text
+-Demo: https://wajdwael.github.io/highlight-searched-text/
+-Code: https://github.com/WajdWael/highlight-searched-text
+)
+
+9(Tic Tac Toe
+-Demo: https://wajdwael.github.io/ser-rock-paper/
+-Code: https://github.com/WajdWael/ser-rock-paper
+)
+
+10(Choices With Random Project
+-Demo: https://wajdwael.github.io/choises-with-random/
+-Code: https://github.com/WajdWael/choises-with-random
+)
+
+11( Menu 
+-Demo: https://wajdwael.github.io/Menu-filter/
+-Code: https://github.com/WajdWael/Menu-filter
+)
+
+12(Form Page
+-Demo: https://wajdwael.github.io/form-Project-css/
+-Code: https://github.com/WajdWael/form-Project-css
+)
+
+(Tabs Project
+-Demo: https://wajdwael.github.io/tabs-project/
+-Code: https://github.com/WajdWael/tabs-project
+)
+
+
+(Reviews
+-Demo: https://wajdwael.github.io/reviews-project/
+-Code: https://github.com/WajdWael/reviews-project
+)
+
+
+(Video Project
+-Demo: https://wajdwael.github.io/video-project-js/
+-Code: https://github.com/WajdWael/video-project-js
+)
+
+
+(Slider
+-Demo: https://wajdwael.github.io/slider-project/
+-Code:  https://github.com/WajdWael/slider-project
+)
+
+
+(Budget App
+-Demo: https://wajdwael.github.io/budget_app/
+-Code: https://github.com/WajdWael/budget_app
+)
+
+(Clock
+-Demo: https://wajdwael.github.io/clock-JS/
+-Code: https://github.com/WajdWael/clock-JS
+)
+
+
+(Services Section
+-Demo: https://wajdwael.github.io/servies-section/
+-Code: https://github.com/WajdWael/servies-section
+)
+
+
+(Counter
+-Demo: https://wajdwael.github.io/counter/
+-Code: https://github.com/WajdWael/counter
+)
+
+
+(Timeline Design
+-Demo: https://wajdwael.github.io/timeline-design/
+-Code:  https://github.com/WajdWael/timeline-design
+)
+
+
+(Memory Game
+-Demo: https://wajdwael.github.io/game-memory-game/
+-Code: https://github.com/WajdWael/game-memory-game
+)
+
+
+(Nice Search Bar animation
+-Demo: https://wajdwael.github.io/seacherbar/
+-Code: https://github.com/WajdWael/seacherbar
+)
+
+
+(Nice Form Animation
+-Demo: https://wajdwael.github.io/niceFormAnimation-css/
+-Code: https://github.com/WajdWael/niceFormAnimation-css
+)
+
+(Character Counter
+-Demo: https://wajdwael.github.io/charchter-counter/
+-Code: https://github.com/WajdWael/charchter-counter
+)
+
+(Nike project
+-Demo: https://wajdwael.github.io/nike-/
+-Code: https://github.com/WajdWael/nike-
+)
+
+(Nice Pricing Card
+-Demo: https://wajdwael.github.io/nicePricingCard/
+-Code: https://github.com/WajdWael/nicePricingCard
+)
+
+
+
+
+1- Project1 - Clothes E-commerce
+Code: [https://github.com/WajdWael/clothes_E-commerce]
+Demo: [https://wajdwael.github.io/clothes_E-commerce/]
+
+---
+
+2- Project2 - Food website 
+Code: [https://github.com/WajdWael/Foodapp]
+Demo: [https://WajdWael.github.io/Foodapp/]
+
+---
+
+3- Project3 - Landing Page (1)
+Code: [https://github.com/WajdWael/htmltemplete]
+Demo: [https://WajdWael.github.io/htmltemplete/]
+
+---
+
+3- Project4 - Landing Page (2) - Technology 
+Code: [https://github.com/WajdWael/htmltamplate2
+Demo: [https://wajdwael.github.io/htmltamplate2/]
+
+---
+
+3- Project5 - 
+code:
+[https://github.com/WajdWael/simple-web.github.io]
+Demo:
+[https://WajdWael.github.io/simple-web.github.io/]
+
+
+
+
+
+
+
+100% Responsive web design 
+We provide you with a fully responsive web design template, we create web pages that look good on all devices! and at the end of the day, Your responsive web design will automatically adjust for different screen sizes and viewports.
+<i class='bx bx-devices'></i>
+
+
+
+Nice CSS Hover Animations
+A CSS hover animation occurs when a user hovers over an element, and the element responds with motion or another transition effect. It's used to highlight key items on a web page and it's an effective way to enhance your site's interactivity.
+<i class="fa-solid fa-wand-sparkles"></i>
+
+high quality
+implement your web design with a high quality, Using HTML5, CSS3 and JavaScript for reliving the webpage with a nice CSS hover animation and fully responsive web site 
+<i class="fa-solid fa-pen-ruler"></i>
+
+
+high speed
+Implement your project with a high quality and speed, We fit all your majors.
+<i class='bx bxs-timer' ></i>
+
+ 
+flexibility
+we can fit all your ideas & majors, implement them as best as we can with appropriate way we can do.
+<i class="fa-solid fa-wrench"></i>
+
+
+we are always here for you
+Full-time Work, we are always here to implement your projects, with a high quality and speed.
+<i class="fa-solid fa-bolt"></i>
