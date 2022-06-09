@@ -398,6 +398,7 @@ button {
 .nav__info-text {
   color: white;
   text-align: center;
+  padding: 3rem;
   margin-top: 0.25rem;
 }
 
@@ -410,16 +411,19 @@ button {
 }
 
 .nav__info-text h3 {
-  color: var(--scroll-bar-color);
+  color: #fff;
+  font-size: 30px;
   letter-spacing: 1.5px;
   margin-bottom: 6.5px;
 }
 
 .nav__info-text h6 {
-  font-size: var(--smaller-font-size);
-  color: hsl(0deg 0% 0% / 46%);
+  font-size: 15;
+  color: hsl(0deg 0% 0% / 87%);
 }
-
+.nav__img{
+  display: none;
+}
 /* SIDER links */
 
 .nav__list-main {
