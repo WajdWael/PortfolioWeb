@@ -749,6 +749,11 @@ button {
   line-height: 1.5;
 }
 
+.cer__buttons button.active{
+  background: var(--first-color);
+  color: white;
+}
+
 @media screen and (max-width: 887px) {
   .about__images {
     width: 65%;
@@ -850,9 +855,14 @@ button {
   transition: var(--trans);
 }
 
-.cer__content img {
+.cer__content{
   margin: 1rem 0;
 }
+
+.cer__content a{
+  word-break: break-all;
+}
+
 .des__cer {
   display: flex;
   justify-content: center;
@@ -1528,11 +1538,8 @@ footer {
   align-items: center;
   position: relative;
   padding: 20px 50px 0 325px;
-  background-color: #f8f7fd00;
-  box-shadow: rgb(50 50 93 / 0%) 0px 30px 60px -12px inset,
-    rgb(0 0 0 / 6%) 0px 18px 36px -18px inset,
-    hsl(0deg 0% 100% / 0%) 0px 30px 60px -12px inset,
-    rgb(248 248 248 / 80%) 0px 18px 36px -18px inset;
+  background-color: #f8f7fd;
+  border-top: 1px solid #3333331f;
 }
 
 footer.active {

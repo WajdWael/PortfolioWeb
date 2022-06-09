@@ -311,6 +311,536 @@ Demo: [https://wajdwael.github.io/htmltamplate2/]
 
 ---
 
+    <!-- <div class="por__card" data-aos="fade-left">
+        <div class="Cer_Ximg-box">
+            <img src="./images/project1-eccomercejs.jpg" alt="E-ccomerce">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>E-commerce (Buy Form)</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/E-commerce_withJsCode/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button-outline">
+                    <a href="https://github.com/WajdWael/E-commerce_withJsCode" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/hangman-game.jpg" alt="Game">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Hang Man Game</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/Hang-manGame-JS/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button-outline">
+                    <a href="https://github.com/WajdWael/Hang-manGame-JS" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/ChangeBackgourndColor-js1.jpg" alt="colorful">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Change Backgournd-Color Project</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/changeBackgroundColor/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/changeBackgroundColor" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/DragAndDropCards.jpg" alt="montain">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Drag And Drop Cards</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/Drag-DropCards/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/Drag-DropCards" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/countdowndate.jpg" alt="Sand glass">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Count Down Date</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/CountDownDate/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/CountDownDate" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/bluranimation.jpg" alt="Blur">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Blur Animation Project</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/Blur-animationCSS/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/Blur-animationCSS" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/FAQ.jpg" alt="question">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>FAQ Project</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/QandA/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/QandA" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/Responsive Navbar.jpg" alt="coffee cup">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Responsive Navbar</h2>
+                <p>For this project I used: HTML, CSS And JS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/responsive-nav/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/responsive-nav" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/Registration-css1.jpg" alt="Welcome">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Nice Registration Animation with CSS</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/registerForm_CSSeffect/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/registerForm_CSSeffect" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/ExpandingCards.jpg" alt="nature">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Expanding Cards</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/ExpandingCards/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/ExpandingCards" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/highlighter.jpg" alt="highlighter">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Highlight Searched Text</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/highlight-searched-text/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/highlight-searched-text" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/tic-tac.jpg" alt="nature">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Tic Tac Toe</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/ser-rock-paper" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/ser-rock-paper" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/random.jpg" alt="water drop">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Choices With Random Project</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/ser-rock-paper/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/ser-rock-paper" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/FormPage.jpg" alt="Welcome">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Form Page</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/form-Project-css/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/form-Project-css" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/tabsproject.jpg" alt="nature">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Tabs Project</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/tabs-project/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/tabs-project" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/reviews.jpg" alt="nature">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Reviews</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/reviews-project/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/reviews-project" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/slider-project.jpg" alt="">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Slider</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/video-project-js/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/slider-project" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/budgetapp.jpg" alt="nature">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Budget App</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/budget_app/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/budget_app" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/memorygame.jpg" alt="game">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Memory Game</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/game-memory-game/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/game-memory-game" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/searchbar.jpg" alt="">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Nice Search Bar animation</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/seacherbar/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/seacherbar" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/niceformanimation3.jpg" alt="">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Nice Form Animation</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/niceFormAnimation-css/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/niceFormAnimation-css" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/charcounter.jpg" alt="">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Character Counter</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/charchter-counter/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/charchter-counter" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/nike-project.jpg" alt="shoes">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Nike project</h2>
+                <p>For this project I used: HTML, CSS & JavaScript.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/nike-/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/nike-" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+        <div class="Cer_Ximg-box">
+            <img src="./images/nicepricingcard.jpg" alt="">
+        </div>
+        <div class="por__content-box">
+            <div class="content">
+                <h2>Nice Pricing Card</h2>
+                <p>For this project I used: HTML & CSS.</p>
+                <button class="button-outline">
+                    <a href="https://wajdwael.github.io/nicePricingCard/" class="button--link button--flex">Take A Look (Demo)
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+                <button class="button">
+                    <a href="https://github.com/WajdWael/nicePricingCard" class="button--link button--flex">Code
+                        <i class="bx bx-right-arrow-alt"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- <div class="por__card">
+
 3- Project5 - 
 code:
 [https://github.com/WajdWael/simple-web.github.io]
@@ -351,3 +881,16 @@ we can fit all your ideas & majors, implement them as best as we can with approp
 we are always here for you
 Full-time Work, we are always here to implement your projects, with a high quality and speed.
 <i class="fa-solid fa-bolt"></i>
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=Y6WzSjI6x5k
+
+
+hover effect for text
+https://www.youtube.com/watch?v=nMGVwP3ww2M
