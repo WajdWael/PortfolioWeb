@@ -109,7 +109,7 @@ let projectData = [
         animation: "",
     },
 
-    // 
+    
     {
         id: 11, 
         src: "../images/landingpage3.jpg",

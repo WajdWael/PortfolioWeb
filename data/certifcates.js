@@ -101,18 +101,6 @@ const cer = [
         category: `Technology`,
     },
 
-    {
-        id: 10,
-        title: `CS50’s
-        Understanding Technology`,
-        org: `Harvard University`,
-        org__img: `../images/harvard.png`,
-        // cerImage: `./images/CS50T.png`,
-        link: `https://certificates.cs50.io/b4b6931b-5c1d-4294-bcd7-37478536c7fc`,
-        descripition: `I learned a lot of information, about hardware, the Internet, multimedia, security, programming, and web development..`,
-        category: `Technology`,
-    },
-
 ]
 
 
