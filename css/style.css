@@ -752,7 +752,6 @@ button {
   color: var(--text-color);
   line-height: 1.5;
 }
-
 .cer__buttons button.active{
   background: var(--first-color);
   color: white;
@@ -783,6 +782,7 @@ button {
 /*======== Certificates ========*/
 
 .cer__buttons {
+  padding-bottom: 2rem;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -837,15 +837,19 @@ button {
 .cards__cer {
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   display: grid;
+  gap: 2rem;
 }
 
 .card__cer {
+  border-radius: 0.5rem;
   width: 100%;
   max-width: 423px;
   margin: auto;
-  margin-top: 3rem;
+  display: flex;
+  height: 270px;
   padding: 1rem;
-  border-radius: 0.5rem;
+  justify-content: center;
+  flex-direction: column;
   border: 1px solid #ddd;
 }
 
@@ -861,6 +865,7 @@ button {
 
 .cer__content{
   margin: 1rem 0;
+  width: 84%;
 }
 
 .cer__content a{

@@ -186,12 +186,12 @@ function displayItem(Item) {
                     <h2>${item.title}</h2>
                     <p>${item.paragraph}</p>
                     <button class="button-outline">
-                        <a href="${item.demoLink}" class="button--link button--flex">Take A Look (Demo)
+                        <a href="${item.demoLink}" class="button--link button--flex" target="_blank">Take A Look (Demo)
                             <i class="bx bx-right-arrow-alt"></i>
                         </a>
                     </button>
                     <button class="button">
-                        <a href="${item.repoLink}" class="button--link button--flex">Code
+                        <a href="${item.repoLink}" class="button--link button--flex" target="_blank">Code
                             <i class="bx bx-right-arrow-alt"></i>
                         </a>
                     </button>
